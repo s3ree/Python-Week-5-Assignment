@@ -1,0 +1,6 @@
+Line 1: Hello!
+Line 2: This is a Python assignment!
+Line 3: Random numbers: 34985678
+Line 4: Appending text.
+Line 5: More random numbers: 67890
+Line 6: End of the file. For now...
